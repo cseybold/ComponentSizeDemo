@@ -1,0 +1,5 @@
+{
+  "name": "Circuit Topology Optimizer",
+  "description": "An interactive web application for circuit topology visualization and component sizing optimization, built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
